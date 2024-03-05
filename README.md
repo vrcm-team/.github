@@ -1,0 +1,3 @@
+- The development group for the VRCM project is also a group of avid VRchat players.
+- The original intention of VRCM was to provide a more convenient and efficient way for VRchat players to know about their friends' statuses, thereby fostering closer relationships.
+- If you have an interest in the VRCM project, please feel free to reach out to us via email at kamosama@qq.com.
